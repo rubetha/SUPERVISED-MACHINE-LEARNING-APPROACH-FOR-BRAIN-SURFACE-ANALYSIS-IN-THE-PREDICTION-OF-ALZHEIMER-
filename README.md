@@ -1,1 +1,5 @@
 # SUPERVISED-MACHINE-LEARNING-APPROACH-FOR-BRAIN-SURFACE-ANALYSIS-IN-THE-PREDICTION-OF-ALZHEIMER-
+Alzheimer's disease (AD) is the leading cause of dementia in older adults. In Alzheimer's disease, the brain is affected by neurodegenerative changes. 
+As our aging population increases, more and more individuals, their families, and healthcare will experience diseases that affect memory and functioning. These effects will be profound on the social, financial, and economic fronts. The main necessity of Artificial intelligence is data. 
+The past dataset is collected and that dataset is used to build a machine learning model. The necessary pre-processing techniques are applied like univariate analysis and bivariate analysis are implemented.
+The data is visualized for a better understanding of the features and based on that a classification model is built by using a Random Forest Classifier,XGBoost Classifier and Knn classifier,Decision Tree classifier algorithm and a comparison of algorithms is done based on their performance metrics like accuracy, F1 score, recall and etc.
